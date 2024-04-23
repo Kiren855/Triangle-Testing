@@ -15,7 +15,6 @@ public class TriangleTest {
         assertEquals("Not Triangle", Triangle.checkTriangleType(3,1,99));
          
     }
-
     @Test
     public void testIsEquiateral(){
         assertEquals("Equilateral", Triangle.checkTriangleType(3,3,3));
