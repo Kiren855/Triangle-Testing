@@ -1,4 +1,4 @@
-repo kiểm thử cho bài toán kiểm tra tam giác
+
 # Kiểm thử với JUnit
 JUnit là một framework kiểm thử tự động cho ngôn ngữ lập trình Java, được sử dụng rộng rãi trong cộng đồng phát triển phần mềm. JUnit cung cấp một cách tiện lợi và hiệu quả để viết và chạy các bài kiểm thử, giúp tăng cường chất lượng của mã nguồn và giảm thiểu lỗi trong quá trình phát triển.
 
@@ -68,4 +68,7 @@ Bài toán tam giác là một bài toán cơ bản trong học kiểm thử ph�
 ### Kết quả: Phương thức kiểm thử cho kết quả "Pass", với kết quả trả về như mong đợi, minh chứng cho khả năng xử lý của chương trình khi gặp phải các trường hợp cạnh có độ dài rất lớn
 
 ## Kiểm tra độ bao phủ:
+![kiểm tra độ bao phủ bài toán tam giác](https://github.com/Kiren855/Triangle-Testing/blob/main/Screenshot%202024-05-31%20015924.png)
 
+# Kết luận
+- Chương trình đã được kiểm thử một cách toàn diện và đạt độ bao phủ kiểm thử 100%. Việc bổ sung các trường hợp kiểm thử mới đã giúp chúng tôi xác định và khắc phục các lỗi tiềm ẩn. Với độ bao phủ cao, chúng tôi tin rằng chương trình là ổn định và đáng tin cậy cho việc xác định loại tam giác.
